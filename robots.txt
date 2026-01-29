@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kacp5092571.github.io/kcpwebhub/sitemap.xml   
